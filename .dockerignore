@@ -1,0 +1,12 @@
+# Ignore build artifacts
+moniepoint
+*.log
+data/
+bin/
+*.test
+
+# Ignore IDE and system files
+.idea/
+.vscode/
+.DS_Store
+node_modules/
