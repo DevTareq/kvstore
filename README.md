@@ -44,7 +44,7 @@ Full **Testing Document**, see the [Testing Document](docs/TESTING.md).
 - **🏎️ Read Performance:** **~14ns for SSTable Lookups**
 - **🔄 Recovery Speed:** **WAL Replay ~17.7ms**
 
-📈 **[Full Benchmark & Stress Test Results](docs/benchmarks.md)**
+📈 **[Full Benchmark & Stress Test Results](docs/BENCHMARK.md)**
 
 ## Getting Started
 
